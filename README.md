@@ -1,2 +1,2 @@
-# Fisica_Estatistica_Computacional
-Atividades práticas da disciplina
+# Fisica Estatistica Computacional
+Atividades práticas da disciplina. Cada diretório corresponde a uma atividade.
